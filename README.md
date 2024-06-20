@@ -7,8 +7,7 @@ PARA JOGAR NO ITCH.IO (NO NAVEGADOR)
 
 https://nicknameplaysgame.itch.io/fight-tiny-warrior
 
-
-
+**********************************************************************************************
 
 
 Upload do jogo criado através da trilha bootcamp DIO - GODOT 2024.
